@@ -1,0 +1,14 @@
+C:\Users\seidb\OneDrive\Masaüstü\AbstractClass\AbstracClass\AbstracClass\bin\Debug\net6.0\AbstracClass.exe
+C:\Users\seidb\OneDrive\Masaüstü\AbstractClass\AbstracClass\AbstracClass\bin\Debug\net6.0\AbstracClass.deps.json
+C:\Users\seidb\OneDrive\Masaüstü\AbstractClass\AbstracClass\AbstracClass\bin\Debug\net6.0\AbstracClass.runtimeconfig.json
+C:\Users\seidb\OneDrive\Masaüstü\AbstractClass\AbstracClass\AbstracClass\bin\Debug\net6.0\AbstracClass.dll
+C:\Users\seidb\OneDrive\Masaüstü\AbstractClass\AbstracClass\AbstracClass\bin\Debug\net6.0\AbstracClass.pdb
+C:\Users\seidb\OneDrive\Masaüstü\AbstractClass\AbstracClass\AbstracClass\obj\Debug\net6.0\AbstracClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seidb\OneDrive\Masaüstü\AbstractClass\AbstracClass\AbstracClass\obj\Debug\net6.0\AbstracClass.AssemblyInfoInputs.cache
+C:\Users\seidb\OneDrive\Masaüstü\AbstractClass\AbstracClass\AbstracClass\obj\Debug\net6.0\AbstracClass.AssemblyInfo.cs
+C:\Users\seidb\OneDrive\Masaüstü\AbstractClass\AbstracClass\AbstracClass\obj\Debug\net6.0\AbstracClass.csproj.CoreCompileInputs.cache
+C:\Users\seidb\OneDrive\Masaüstü\AbstractClass\AbstracClass\AbstracClass\obj\Debug\net6.0\AbstracClass.dll
+C:\Users\seidb\OneDrive\Masaüstü\AbstractClass\AbstracClass\AbstracClass\obj\Debug\net6.0\refint\AbstracClass.dll
+C:\Users\seidb\OneDrive\Masaüstü\AbstractClass\AbstracClass\AbstracClass\obj\Debug\net6.0\AbstracClass.pdb
+C:\Users\seidb\OneDrive\Masaüstü\AbstractClass\AbstracClass\AbstracClass\obj\Debug\net6.0\AbstracClass.genruntimeconfig.cache
+C:\Users\seidb\OneDrive\Masaüstü\AbstractClass\AbstracClass\AbstracClass\obj\Debug\net6.0\ref\AbstracClass.dll
